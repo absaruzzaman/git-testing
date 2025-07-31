@@ -2,4 +2,4 @@ Hey, this file was created from feature2 branch and it is done out of exercise.
 Let's try to add and commit then push it.
 gonna do an example of merge conflict.
 this line is from feature3 branch.
-this line is written from github for merge conflict purpose.
+this line is written from github for merge conflic purpose from the master branch.
