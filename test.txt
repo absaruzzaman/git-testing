@@ -1,2 +1,5 @@
 this is my first line.
 Here to learn about git and github, how to effectively work on it.
+so far I have learm to make a folder into git folder by: git init
+then to add it on stagging area: git add "filename"
+then to commit, means saving that version: git commit -m "msg here"
