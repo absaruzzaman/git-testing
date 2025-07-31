@@ -1,5 +1,10 @@
 this is my first line.
 Here to learn about git and github, how to effectively work on it.
-so far I have learm to make a folder into git folder by: git init
-then to add it on stagging area: git add "filename"
-then to commit, means saving that version: git commit -m "msg here"
+1. so far I have learm to make a folder into git folder by: git init
+2. then to add it on stagging area: git add "filename"
+3. then to commit, means saving that version: git commit -m "msg here"
+4. When you are done, want to upload it to remote rep then git push.
+
+Also, to make things simpler to understand: remote rap edit won't reflect on local rep unless you pull the code by the branch for the first time.
+for first time you have to type: git pull origin master
+then, git pull.
