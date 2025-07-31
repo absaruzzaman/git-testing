@@ -8,3 +8,13 @@ Here to learn about git and github, how to effectively work on it.
 Also, to make things simpler to understand: remote rap edit won't reflect on local rep unless you pull the code by the branch for the first time.
 for first time you have to type: git pull origin master
 then, git pull.
+
+an overview
+1. files in working directory: git init
+2. to put the files in stagging area: git add "filename" or .
+3. commit so that you can go back to any version that needed: git commit -m "msg"
+4. finally uploading on remote rep, for that you have to make one if there isn't one in the github,
+then using some commands to link up then verifying by git remote -v.
+once that done, you can push and pull according to your needs. 
+Example: now I am going to push from the local machine so now like I said:
+git add . -> git commit -m "msg" -> git push
