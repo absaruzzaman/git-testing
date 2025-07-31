@@ -1,2 +1,4 @@
 Hey, this file was created from feature2 branch and it is done out of exercise.
 Let's try to add and commit then push it.
+gonna do an example of merge conflict.
+this line is from feature3 branch.
